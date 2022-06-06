@@ -14,7 +14,6 @@ define('APP_ROOT',dirname(dirname(__FILE__)));
 /**
  * URL Root
  */
-// define('BASE_URL', 'http://localhost/traversymvc');
 define('BASE_URL', '_YOUR_URL_');
 
 /**
@@ -23,11 +22,6 @@ define('BASE_URL', '_YOUR_URL_');
 define('SITE_NAME', '_YOUR_SITENAME');
 
 // DB Params
-// define('DB_HOST', 'localhost:3308');
-// define('DB_Usser', 'root');
-// define('DB_PASSWORD', '');
-// define('DB_NAME', 'tmvc_db');
-
 define('DB_HOST', '_YOUR_HOST_');
 define('DB_Usser', '_YOUR_USER_');
 define('DB_PASSWORD', '_YOUR_PASSWORD_');
